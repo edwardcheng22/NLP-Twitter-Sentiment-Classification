@@ -34,4 +34,36 @@ Twitter is a popular social media platform used by hundreds of millions of peopl
 * Tokenization
 
  ## Exploratory Data Analysis
+ 
+ ### Length of Tweets
+ 
+ ### Length of Tokenized Words based on the product's emotion
+ 
+ ### Top 20 Most Popular Words
+ 
+ ### Top 20 Most Popular Hashtags
+ 
+ ## Feature Engineering
+ 
+ ### Bigrams/N-grams
+ 
+ ### Mutual Information Scores
+ 
+ ### Text Vectorization
+ 
+ ## Modelling
+ 
+ **6 models tested:**
+   
+   * Multinomial NB Classifier
+   * Logistic Regression
+   * Random Forests
+   * Support Vector Classifier
+   * Deep Neural Networks (Base Model)
+   * Deep Neural Networks Regularized (with dropout)
+   
+## Results
+
+### Final Model Selected:
+
 
