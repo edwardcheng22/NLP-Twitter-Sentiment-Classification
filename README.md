@@ -66,4 +66,9 @@ Twitter is a popular social media platform used by hundreds of millions of peopl
 
 ### Final Model Selected:
 
-
+**Next Steps**
+  * Trying different data cleaning methods
+    * Having more time to play around with combining unused features together
+    * Collect more data to train the model
+    * Transforming more categorical variables into numerical ones for modelling purposes
+    * Making predictions with another modelling algorithm such as XGBoost
