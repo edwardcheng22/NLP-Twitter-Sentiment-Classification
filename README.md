@@ -99,14 +99,14 @@ Twitter is a popular social media platform used by hundreds of millions of peopl
    
    * Multinomial NB Classifier
    * Logistic Regression
-   * Random Forests
+   * Random Forest
    * Support Vector Classifier
    * Deep Neural Networks (Base Model)
    * Deep Neural Networks Regularized (with dropout)
    
 ## Results
 
-### Final Model Selected:
+### Final Model Selected: 
 
 **Next Steps**
   * Trying different data cleaning methods
