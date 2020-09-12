@@ -45,12 +45,6 @@ Twitter is a popular social media platform used by hundreds of millions of peopl
  
  ### Top 20 Most Popular Words
  
- ### Most Popular Words for Positive Emotion
- 
- ### Most Popular Words for Negative Emotion
- 
- ### Most Popular Words for Neutral Emotion
- 
  ### Top 20 Most Popular Hashtags
  
  ## Feature Engineering
