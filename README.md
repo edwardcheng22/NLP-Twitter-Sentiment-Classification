@@ -33,6 +33,10 @@ Twitter is a popular social media platform used by hundreds of millions of peopl
 
 * Tokenization
 
+ ## Cleaned Non-Tokenized Version
+
+ ## Cleaned Tokenized Version
+
  ## Exploratory Data Analysis
  
  ### Length of Tweets
@@ -40,6 +44,12 @@ Twitter is a popular social media platform used by hundreds of millions of peopl
  ### Length of Tokenized Words based on the product's emotion
  
  ### Top 20 Most Popular Words
+ 
+ ### Most Popular Words for Positive Emotion
+ 
+ ### Most Popular Words for Negative Emotion
+ 
+ ### Most Popular Words for Neutral Emotion
  
  ### Top 20 Most Popular Hashtags
  
