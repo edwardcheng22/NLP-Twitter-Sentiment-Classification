@@ -108,13 +108,13 @@ Twitter is a popular social media platform used by hundreds of millions of peopl
 
 ### Final Model Selected: Deep Neural Network Regularized (with dropout)
 
-## Final Accuracy Score: 75.4%
+### Final Accuracy Score: 75.4%
 
 ![sgd](https://github.com/edwardcheng22/NLP-Twitter-Sentiment-Classification/blob/master/images/SGD_model.PNG)
 
 ![results](https://github.com/edwardcheng22/NLP-Twitter-Sentiment-Classification/blob/master/images/results.PNG)
 
-# Check for Overfitting/Underfitting
+### Check for Overfitting/Underfitting
 
 ![loss](https://github.com/edwardcheng22/NLP-Twitter-Sentiment-Classification/blob/master/images/loss_function.PNG)
 ![accuracy](https://github.com/edwardcheng22/NLP-Twitter-Sentiment-Classification/blob/master/images/accuracy_function.PNG)
