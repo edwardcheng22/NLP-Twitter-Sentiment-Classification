@@ -120,7 +120,9 @@ Twitter is a popular social media platform used by hundreds of millions of peopl
 ![accuracy](https://github.com/edwardcheng22/NLP-Twitter-Sentiment-Classification/blob/master/images/accuracy_function.PNG)
 
 **Next Steps**
-  * Trying different data cleaning methods
-    * Having more time to play around with combining unused features together
-    * Collect more data to train the model
-    * Transforming more categorical variables into numerical ones for modelling purposes
+  * Collect more data to train the models
+  * Spend more time preprocessing the text data
+  * Trying out more modelling algorithms such as XG boost
+  * Applying weight initializations to the neural networks 
+  * Trying out more deep neural networks such as GRU
+
