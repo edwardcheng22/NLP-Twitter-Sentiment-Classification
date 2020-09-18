@@ -112,7 +112,7 @@ Twitter is a popular social media platform used by hundreds of millions of peopl
 
 ![sgd](https://github.com/edwardcheng22/NLP-Twitter-Sentiment-Classification/blob/master/images/SGD_model.PNG)
 
-![results](https://github.com/edwardcheng22/NLP-Twitter-Sentiment-Classification/blob/master/images/results.PNG)
+![results](https://github.com/edwardcheng22/NLP-Twitter-Sentiment-Classification/blob/master/images/results_final.PNG)
 
 ### Check for Overfitting/Underfitting
 
