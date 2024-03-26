@@ -6,7 +6,7 @@ Medium Article: https://medium.com/swlh/nlp-twitter-sentiment-classification-tut
 
 ## Business Case
 
-Twitter is a popular social media platform used by hundreds of millions of people around the globe. In fact, the current estimate of twitter users amount to approximately 330 million monthly active users and 145 million daily active users on Twitter. 63 percent of all Twitter users worldwide are between the ages of 35 and 65. The CEO of twitter has tasked me with building a model that has the capabilities of analyzing Twitter sentiments about Apple and Google products. The human raters rated the sentiment in over 9,000 Tweets as positive, negative, or neither.
+Twitter is a popular social media platform used by hundreds of millions of people around the globe. In fact, the current estimate of twitter users amount to approximately 330 million monthly active users and 145 million daily active users on Twitter. 63 percent of all Twitter users worldwide are between the ages of 35 and 65.
 
 
 ## Objective of the project
